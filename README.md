@@ -1,6 +1,6 @@
 # Hi, I'm Khairul Mansor 👋
 
-**Senior Conversational AI Developer** at Vodafone Ireland, based in Cork, Ireland.
+**Senior Conversational AI Developer** based in Cork, Ireland.
 I have 9 years of hands-on experience building virtual assistants, chatbots and voicebots, using AI, data analytics and natural language processing to improve customer experience.
 
 ## 🔭 What I do
